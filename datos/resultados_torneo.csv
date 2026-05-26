@@ -1,0 +1,7 @@
+local,goles_local,goles_visitante,visitante
+Boca,2,1,River
+River,1,1,Independiente
+Racing,3,0,Boca
+Independiente,0,2,River
+Boca,1,2,Racing
+Racing,2,2,Independiente
